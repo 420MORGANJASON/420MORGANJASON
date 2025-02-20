@@ -66,8 +66,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/420MORGANJASON/420MORGANJASON/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <img align="right" height="150" src="blob:https://web.whatsapp.com/d1a3238e-b25b-42a0-8534-b978d0f1fb78"  />
