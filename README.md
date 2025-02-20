@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently working on my JavaScript skill<br>Working as a web developer since 2024</p>
+<p align="left">💻Currently working on my JavaScript skill<br>🖥️Woking as a web developer since 2024</p>
 
 ###
 
